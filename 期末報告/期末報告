@@ -76,7 +76,7 @@ html
 </html>
 ```
 js
-```javascript=
+```
 // var fs = require('fs')
 // var https = require('https')
 // 如果不需要用 https 的話，要改成引用 http 喔
